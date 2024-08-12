@@ -1,0 +1,95 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+   box-sizing: border-box; 
+  }
+  
+  .container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    /* flex-direction: center; */
+    background: rgb(215, 215, 219);
+    */
+    /* font-size: medium; */
+  }
+  
+  .card-container {
+  
+    display: flex;
+     justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(17, 17, 185);
+    border-radius: 10px;
+    /* background-image: url("./assets/img\ pawan\ kalyan.jpg"); */
+     background-size: cover; 
+    background: no-repeat;
+    /* animation-duration:; */
+     /* color: black;   */
+  
+  }
+  
+  .container button {
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+     /* box-shadow: -8px -8px 15px rgb(244,255,255,0,1); */ 
+  
+     /* background:transparent;  */
+    /* animation-delay: 10px,5px,0px 10px,; */
+    /* cursor:pointer; */
+    /* color: rgb(13, 79, 133);
+    font-size: 20px; */
+  
+  }
+  
+  /* .buttons{
+       display: flex;
+      justify-content: center;
+      margin: 15px 0px ;
+  } */
+  
+  .card-container input {
+    text-align: right;
+    font-size: 25px;
+     /* box-shadow: none; */
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    padding: -5px;
+     margin-top: 15px;
+    background-color:black;
+    color:white
+  
+  
+  }
+  
+  .operater {
+    color: rgb(111, 233, 145) !important;
+    /* transition: all 3s ease-in 3s; */
+    background-color: blue;
+  
+  
+  }
+  
+  .class button {
+    color: rgb(230, 230, 234);
+    /* transform-style: preserve-3d; */
+  }
+  
+  .row .class {
+    color: chartreuse;
+  
+  }
+  
+  .container button{
+    background-color: red;
+    color: black;
+  
+  }
